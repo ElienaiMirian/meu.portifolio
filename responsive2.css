@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: Retrolight;
-    src: url(/Retrolight.ttf);
+    src: url(Retrolight.ttf);
 }
 
 * p {
@@ -37,7 +37,7 @@
         padding-top: 30px;
         width: 100vw;
         height: 100vh;
-        background: url(/bgbody.jpg);
+        background: url(bgbody.jpg);
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -48,7 +48,7 @@
     .pagina3,
     .pagina4,
     .pagina5 {
-        background: url(/bggray.jpg);
+        background: url(bggray.jpg);
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -117,7 +117,7 @@
     }
 
     aside {
-        background-image: url(/fotoElienai.jpeg);
+        background-image: url(fotoElienai.jpeg);
         background-size: cover;
         background-position: top;
         width: 50%;
@@ -251,7 +251,7 @@
     }
 
     .imgNavLateral {
-        background-image: url(/fotoElienai.jpeg);
+        background-image: url(fotoElienai.jpeg);
         height: 40%;
         background-position: top;
         background-size: cover;
